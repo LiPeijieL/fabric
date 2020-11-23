@@ -1,4 +1,4 @@
-# Hyperledger Fabric [![join the chat][rocketchat-image]][rocketchat-url]
+# Hyperledger a Fabric [![join the chat][rocketchat-image]][rocketchat-url]
 
 [rocketchat-url]: https://chat.hyperledger.org/channel/fabric
 [rocketchat-image]: https://open.rocket.chat/images/join-chat.svg
